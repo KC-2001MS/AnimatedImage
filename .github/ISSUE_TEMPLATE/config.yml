@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Documentation
+    url: https://iroiro.dev/AnimatedImage/documentation/animatedimage/
+    about: More information on using AnimatedImage can be found here.
